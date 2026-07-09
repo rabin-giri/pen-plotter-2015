@@ -18,9 +18,9 @@
 #include <stdlib.h>
 #include <string.h>
 #include <avr/interrupt.h>
-#include "Servo.h"
+#include "servo.h"
 #include "header.h"
-#include "lcd.h"
+
 
 // ---------------------------------------------------------
 // Hardware Configuration
