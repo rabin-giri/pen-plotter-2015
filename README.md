@@ -54,3 +54,7 @@ The firmware is standard bare-metal AVR C.
 * Define your MCU (`atMega32` or `atMega8`) and clock speed (`16000000UL`) in `plottertest.cpp`.
 * Compile using `avr-gcc` (or Microchip Studio/AVR Studio) and flash the `.hex` file to the microcontroller via your preferred ISP programmer.
 
+<p align="center">
+  <img  src="./windows-app/plotter.png" alt="pen plotter">
+</p>
+
