@@ -139,10 +139,10 @@ LRESULT CALLBACK WinProc(HWND hWnd, UINT msg, WPARAM wParam, LPARAM lParam)
                     std::system("cls");
                     std::cout << " Pen Plotter DriverApps [Version 1.0.0000]" << std::endl;
                     std::cout << " <c> 2015 Robotics Club, IOE Central Campus. All rights reserved." << std::endl << std::endl;
-                    std::cout << " Project by: Bimal Paneru" << std::endl;
+                    std::cout << " Project by: Rabin Giri" << std::endl;
                     std::cout << "           : Niraj Basnet" << std::endl;
                     std::cout << "           : Sagar Shrestha" << std::endl;
-                    std::cout << "           : Rabin Giri" << std::endl;
+                    std::cout << "           : Bimal Paneru" << std::endl;
                     break;
 
                 case ID_GCODE_CLIINSERT:
